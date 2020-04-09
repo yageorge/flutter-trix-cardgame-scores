@@ -1,4 +1,4 @@
-# perstrixscores
+# Flutter Trix Card game Scores
 
 My first ever app with Flutter and programming in general. 2 months experience only.
 This app will handle the scores of a Card game named Trix/Trex.
