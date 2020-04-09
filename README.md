@@ -1,16 +1,8 @@
 # perstrixscores
 
-A new Flutter application.
+My first ever app with Flutter and programming in general. 2 months experience only.
+This app will handle the scores of a Card game named Trix/Trex.
+You can find the Trix game play and rules at https://en.wikipedia.org/wiki/Trex_(card_game)
 
-## Getting Started
+I am also totally new to Github, I am sharing this project to be able to get some feedback on my code, some improvments I can do. And also hopefully assist others with my project.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
