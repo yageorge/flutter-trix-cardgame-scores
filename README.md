@@ -6,3 +6,6 @@ You can find the Trix game play and rules at https://en.wikipedia.org/wiki/Trex_
 
 I am also totally new to Github, I am sharing this project to be able to get some feedback on my code, some improvments I can do. And also hopefully assist others with my project.
 
+Screenshots:
+
+![](/screenshot1.png)
